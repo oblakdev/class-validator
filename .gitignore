@@ -1,0 +1,15 @@
+src/Decorator/Array
+src/Decorator/Common/*
+src/Decorator/Number
+src/Decorator/Object
+src/Decorator/String
+src/Decorator/StringType/*
+src/Decorator/Type/*
+
+!Allow.php
+!Whitelisted.php
+!IsBooleanString.php
+!IsInt.php
+
+vendor
+.phpunit.result.cache

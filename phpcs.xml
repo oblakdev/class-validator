@@ -1,0 +1,10 @@
+<ruleset name="Intervention/image">
+
+  <rule ref="PSR12"/>
+
+  <arg name="colors"/>
+  <arg value="p"/>
+
+  <file>src/</file>
+  <file>tests/</file>
+</ruleset>
